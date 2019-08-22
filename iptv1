@@ -4,15 +4,11 @@ http://tech-info.tk/ji/jiohd.m3u8?c=DD_India/DD_India_250.m3u8
 #EXTINF:-1,dd bangla
 http://tech-info.tk/ji/jiohd.m3u8?c=DD_Bangla/DD_Bangla_250.m3u8
 #EXTINF:-1,dd bharati
-http://tech-info.tk/ji/jiohd.m3u8?c=DD_Bharati/DD_Bhartai_250.m3u8
+http://tech-info.tk/ji/jiohd.m3u8?c=DD_bharati/DD_bharati_250.m3u8
 #EXTINF:-1,dd bihar
 http://tech-info.tk/ji/jiohd.m3u8?c=DD_Bihar/DD_Bihar_250.m3u8
-#EXTINF:-1,dd chandana
-http://tech-info.tk/ji/jiohd.m3u8?c=DD_Chandana/DD_Chandana_250.m3u8
 #EXTINF:-1,dd girnar
 http://tech-info.tk/ji/jiohd.m3u8?c=DD_Girnar/DD_Girnar_250.m3u8
-#EXTINF:-1,dd kashir
-http://tech-info.tk/ji/jiohd.m3u8?c=DD_Kashir/DD_Kashir_250.m3u8
 #EXTINF:-1,dd kisan
 http://tech-info.tk/ji/jiohd.m3u8?c=DD_Kisan/DD_Kisan_250.m3u8
 #EXTINF:-1,dd malayalam
@@ -28,17 +24,13 @@ http://tech-info.tk/ji/jiohd.m3u8?c=DD_Podhigai/DD_Podhigai_250.m3u8
 #EXTINF:-1,dd punjabi
 http://tech-info.tk/ji/jiohd.m3u8?c=DD_Punjabi/DD_Punjabi_250.m3u8
 #EXTINF:-1,dd rajasthan
-http://tech-info.tk/ji/jiohd.m3u8?c=DD_Rajasthan/DD_Rajasthan_250.m3u8
+http://tech-info.tk/ji/jiohd.m3u8?c=DD_Rajasthan_Jaipur/DD_Rajasthan_Jaipur_250.m3u8
 #EXTINF:-1,dd sahyadri
-http://tech-info.tk/ji/jiohd.m3u8?c=DD_Sahyadri/DD_Sahyadri_250.m3u8
+http://tech-info.tk/ji/jiohd.m3u8?c=DD_Sahayadri/DD_Sahayadri_250.m3u8
 #EXTINF:-1,dd sports
 http://tech-info.tk/ji/jiohd.m3u8?c=DD_Sports/DD_Sports_250.m3u8
 #EXTINF:-1,dd urdu
-http://tech-info.tk/ji/jiohd.m3u8?c=DD_Urdu/DD_Urdu_250.m3u8
-#EXTINF:-1,dd vyas
-http://tech-info.tk/ji/jiohd.m3u8?c=DD_Vyas/DD_Vyas_250.m3u8
-#EXTINF:-1,dd yadagiri
-http://tech-info.tk/ji/jiohd.m3u8?c=DD_Yadagiri/DD_Yadagiri_250.m3u8
-#EXTINF:-1,dd loksabha
-http://tech-info.tk/ji/jiohd.m3u8?c=DD_Loksabha/DD_Loksabha_250.m3u8
+http://tech-info.tk/ji/jiohd.m3u8?c=DD_urdu/DD_urdu_250.m3u8
+#EXTINF:-1,dd rajyashabha
+http://tech-info.tk/ji/jiohd.m3u8?c=DD_Rajyasabha/DD_Rajyasabha_250.m3u8
 
